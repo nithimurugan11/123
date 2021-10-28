@@ -1,0 +1,4 @@
+name=("hai")
+print(name)
+
+

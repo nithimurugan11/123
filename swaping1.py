@@ -1,0 +1,14 @@
+d=10
+f=20
+print(d,f)
+d=d+f
+f=d-f
+d=d-f
+print(d,f)
+d=10
+f=20
+print(d,f)
+d=d*f
+f=d-f
+d=d-f
+print(d,f)
